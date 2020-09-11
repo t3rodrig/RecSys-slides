@@ -1,0 +1,53 @@
+---
+title: "Recommender System"
+author: "Tonalli Rodríguez-López"
+date: "September 12, 2020"
+output: 
+  revealjs::revealjs_presentation:
+    theme: night
+    center: true
+    transition: slide
+    css: styles.css
+    self_contained: false
+---
+
+## Tonalli Rodríguez-Lopez
+
+| Physicist, Web Dev, & Data Enthusiast
+| [\@t3rodrig][] &middot; [github.com/t3rodrig][] &middot; [linkedin.com/in/t3rodrig/][]
+
+![Photo](images/cg_box.png){.cg_box}
+![Photo](images/mern-stack.png){.cg_box}
+![Photo](images/SciPy-stack.jpg){.cg_box}
+![Photo](images/Python-Web-Development.jpg){.cg_box}
+
+[\@t3rodrig]: https://twitter.com/t3rodrig
+[github.com/t3rodrig]: https://github.com/t3rodrig
+[linkedin.com/in/t3rodrig/]: https://www.linkedin.com/in/t3rodrig/
+
+## Project
+
+A tool for door-to-door salesperson
+
+![Photo](images/catálogo.png){#ecommerce}
+
+## Web Scraping
+
+| Faciales | Capilares | Corporales | Maquillaje | Fragancias | Higiene
+
+![Photo](images/homepage.png){#ecommerce}
+
+## Recommender System
+
+* Through NLP we extract the most characteristic words of all the products.
+* We build a vector that collects all the words.
+* We use the cosine similarity score to identify the most similar products.
+
+## Demo
+
+[iron-recsys.netlify.app/](https://iron-recsys.netlify.app/){#demo_link}
+![Photo](images/deployment-BW.png){#App-logo}
+  
+## Tonalli Rodríguez-Lopez
+
+![Photo](images/gracias.png){.thanks}
