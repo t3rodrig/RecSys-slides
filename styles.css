@@ -1,0 +1,26 @@
+.reveal h1 {
+  font-size:3.5em;
+}
+
+.cg_box {
+  height: 25vmin;
+}
+
+#ecommerce {
+  height: 60vmin;
+  border: 0;
+}
+
+#demo_link {
+  display: block;
+  font-size:2.0em;
+}
+
+#App-logo {      
+  height: 40vmin;
+  border: 0;
+}
+
+.thanks {
+  width: 25%;
+}
